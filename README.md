@@ -1,6 +1,6 @@
 # Joey's Password Manager Showcase
 
-A Password Manager to locally store passwords in a safe way, created in Python with a MySQL database.
+This is a showcase of my personal password manager that I created to locally store passwords in a safe way, the code is currently private. The password manager has a built in password generator to conveniently generate a strong password in situations such as resetting an accounts password. I created this tool in Python and utilize a local MySQL database that I've created.
 
 ## Features
 
@@ -28,6 +28,6 @@ The random password generator allows you to quickly generate a complex password 
 
 ### Live Database Updating and Security Features
 
-The password manager is integrated with MySQL database, and updates live with changes made within the GUI. Such as when a user makes an update to a service name, username, password, or when an entry is deleted by the user. 
+The password manager is integrated with MySQL database which updates live with changes made within the password manager, such as when a user makes an update to a service name, username, password, or when an entry is deleted by the user. 
 
 ![Live Database Updating and Security Features](https://imgur.com/JnkgqvT.gif)  
